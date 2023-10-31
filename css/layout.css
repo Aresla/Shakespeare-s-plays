@@ -1,0 +1,41 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.3rem;
+    padding: 1rem;
+}
+ul {
+    list-style: disc;
+    padding: 1rem 1rem 1rem 4rem;
+    list-style: 1.5;
+}
+h1,
+h2 {
+    font-size: 2rem;
+}
+table {
+    margin-bottom: 1rem;
+}
+tr {
+    line-height: 1.5;
+}
+td {
+    padding-right: 1rem;
+}
+
+.joka-toinen-rivi:nth-child(odd) {
+    background-color: gainsboro;
+}
+
+.rivit-vierekkain {
+    background-color: gainsboro;
+} 
+
+.dotted {
+    font-weight: bold;
+    color: brown;
+    text-decoration-style: dotted;
+}
+.spacing {
+    margin: 0.5rem;
+}
+
