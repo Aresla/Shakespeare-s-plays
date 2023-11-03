@@ -1,11 +1,11 @@
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 1.3rem;
+    font-size: 1rem;
     padding: 1rem;
 }
 ul {
     list-style: disc;
-    padding: 1rem 0 1rem 8rem;
+    padding: 1rem 1rem 1rem 8rem;
 }
 h1,
 h2 {
@@ -43,9 +43,10 @@ td {
     padding-right: 13rem;
 }
 
-.histories {
-    padding: 1rem 0 1rem 7.5rem;
+#eka ul {
+    justify-content: flex-end;
 }
+
 
 
 
