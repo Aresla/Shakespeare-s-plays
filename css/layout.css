@@ -5,8 +5,7 @@ body {
 }
 ul {
     list-style: disc;
-    padding: 1rem 1rem 1rem 4rem;
-    list-style: 1.5;
+    padding: 1rem 0 1rem 8rem;
 }
 h1,
 h2 {
@@ -14,6 +13,7 @@ h2 {
 }
 table {
     margin-bottom: 1rem;
+    width: 100%;
 }
 tr {
     line-height: 1.5;
@@ -38,4 +38,14 @@ td {
 .spacing {
     margin: 0.5rem;
 }
+
+#kolmas {
+    padding-right: 13rem;
+}
+
+.histories {
+    padding: 1rem 0 1rem 7.5rem;
+}
+
+
 
